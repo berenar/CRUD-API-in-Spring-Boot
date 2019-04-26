@@ -1,2 +1,2 @@
 # CRUD-API-in-Spring-Boot
-Using Liquibase, Actuator i Swagger libraries
+Example of a **maven** project using **Liquibase, Actuator and Swagger** libraries added to a **CRUD API**.
